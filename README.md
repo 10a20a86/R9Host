@@ -1,4 +1,4 @@
-# R9Host优惠码和2024年最新R9Host特价云服务器活动整理
+# R9Host优惠码和2025年最新R9Host特价云服务器活动整理
 
 ## R9Host 介绍
 R9Host 提供可靠、价格合理、超快速、高性能和高IOPS的NVMe云服务器VPS托管服务。这些服务专为需要强大计算能力和快速I/O性能的应用设计，如WordPress、Magento、PrestaShop、Joomla等。
